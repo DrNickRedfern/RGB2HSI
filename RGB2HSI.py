@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def RGB2HSI ( colour ): # input is a tuple of RGB colour values, e.g. (100, 200, 150)
     
     from math import acos, pi, sqrt
