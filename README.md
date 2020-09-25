@@ -12,7 +12,7 @@ The HSI colour model represents colour as *hue* (H), *saturation* (S), and *inte
 
 <img src="https://www.mdpi.com/water/water-11-02339/article_deploy/html/images/water-11-02339-g004.png" width="600">
 (Cao, Zhu, Zhao, Liu, & Gao (2019) CC-BY 4.0)
-
+<p></p>
 The hue describes the dominant colour represented as an angle in the range [0, 360], where red is 0&#176;, yellow is 60&#176;, green is 120&#176; cyan is 180&#176;, blue is 240&#176;, and magenta is 300&#176;.
 
 The saturation is the realtive purity of the colour and depends on the amount of white light present, and has the range [0, 100].
@@ -59,4 +59,5 @@ which returns the result 81.44611821341518.
 
 ## References
 Cao, P., Zhu, Y., Zhao, W., Liu, S., & Gao, H. (2019) Chromaticity measurement based on the image method and its application in water quality detection, *Water* 11 (11): 2339. https://doi.org/10.3390/w11112339.
+
 Koschan, A., and Abidi, M. (2008) *Digital Color Image Processing*. Hoboken, NJ: John Wiley & Sons.
