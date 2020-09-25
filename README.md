@@ -14,9 +14,9 @@ The HSI colour model represents colour as *hue* (H), *saturation* (S), and *inte
 (Cao, Zhu, Zhao, Liu, & Gao (2019) CC-BY 4.0)
 <p></p>
 The hue describes the dominant colour represented as an angle in the range [0, 360], where red is 0&#176;, yellow is 60&#176;, green is 120&#176; cyan is 180&#176;, blue is 240&#176;, and magenta is 300&#176;.
-
+<p></p>
 The saturation is the realtive purity of the colour and depends on the amount of white light present, and has the range [0, 100].
-
+<p></p>
 The intensity ranges from black (0) to White (100).
 
 ## RGB2HSI
