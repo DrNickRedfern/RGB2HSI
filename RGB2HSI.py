@@ -1,4 +1,7 @@
-def RGB2HSI ( colour ): # input is a tuple of RGB colour values, e.g. (100, 200, 150)
+# input is a tuple of RGB colour values
+# example: RGB2HSI((100, 150, 200))
+
+def RGB2HSI ( colour ): 
     
     from math import acos, pi, sqrt
     
