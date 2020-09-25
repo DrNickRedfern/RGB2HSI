@@ -1,10 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
+# inputs are tuples of HSI colour values
+# example: deltaHSI((210, 33.3, 150), (139, 57.1, 117))
 
-# In[1]:
-
-
-def deltaHSI (colour1, colour2): # inputs are tuples of HSI colour values
+def deltaHSI (colour1, colour2): 
     
     from math import cos, pi, sqrt
     
