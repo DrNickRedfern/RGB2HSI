@@ -41,7 +41,7 @@ returns the tuple (210, 33.3, 150).
 
 ### deltaHSI
 
-For two colours <img src="https://render.githubusercontent.com/render/math?math=C_{1}=(H_{1},S_{1},I_{1})"> and <img src="https://render.githubusercontent.com/render/math?math=C_{2}=(H_{2},S_{2},I_{2})"> in HSI colour space, the disdtanbce between them is given by
+For two colours <img src="https://render.githubusercontent.com/render/math?math=C_{1}=(H_{1},S_{1},I_{1})"> and <img src="https://render.githubusercontent.com/render/math?math=C_{2}=(H_{2},S_{2},I_{2})"> in HSI colour space, the distance between them is given by
 
 <img src="https://render.githubusercontent.com/render/math?math=\Delta_{HSI}(C_{1},C_{2})=SQRT((\Delta I)^{2}%2B(\Delta C)^{2})">,
 
@@ -55,7 +55,7 @@ where
 ```Python
 deltaHSI((210, 33.3, 150), (139, 57.1, 117))
 ```
-which returns the result 81.44611821341518.
+which returns the result 81.45.
 
 ## References
 Cao, P., Zhu, Y., Zhao, W., Liu, S., & Gao, H. (2019) Chromaticity measurement based on the image method and its application in water quality detection, *Water* 11 (11): 2339. https://doi.org/10.3390/w11112339.
