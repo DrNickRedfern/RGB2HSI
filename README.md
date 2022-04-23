@@ -47,7 +47,7 @@ For two colours <img src="https://render.githubusercontent.com/render/math?math=
 
 where
 
-<img src="https://render.githubusercontent.com/render/math?math=\Delta I=|I_{1}-I_{2}"> and <img src="https://render.githubusercontent.com/render/math?math=\Delta C=SQRT(S^2_{1}%2BS^2_{2}%2B-2S_{1}S_{2}cos\theta)">, with
+<img src="https://render.githubusercontent.com/render/math?math=\Delta I=|I_{1}-I_{2}|"> and <img src="https://render.githubusercontent.com/render/math?math=\Delta C=SQRT(S^2_{1}%2BS^2_{2}%2B-2S_{1}S_{2}cos\theta)">, with
 
 <img src="https://render.githubusercontent.com/render/math?math=\theta=|H_{1}-H_{2}|">&nbsp;&nbsp;if&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=|H_{1}-H_{2}|\leq\pi">&nbsp;&nbsp;and&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\theta=2\pi-|H_{1}-H_{2}|">&nbsp;&nbsp;if&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=|H_{1}-H_{2}|>\pi">.
 
